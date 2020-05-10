@@ -1,0 +1,18 @@
+May 3, 2020 Sunday
+
+Completed Milestone 3:
+
+First tried to solve the lumping of serial prints and delay in my code for Milestone 2, 
+which caused a lag in the robot’s sensor and motor speed update. 
+
+First attempt was to implement the “sprintf” function.
+Looked up tutorials and manuals but could not utilize this function in a functional (sorry) manner.
+
+Thus resorted to the other line-location method, which works better than the raw data option.
+
+Adjusted code for a proportional gain of 0.2 and a derivative gain of 3. 
+This time the robot is able to navigate sharp turns and follow a square.
+
+Also solved the floor problem by finding a better piece of floor. Still coated with dog hair but color works better.
+
+Video background music credits to Daniel.
