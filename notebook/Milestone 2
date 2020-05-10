@@ -14,6 +14,6 @@ why the performance of my robot differs so strongly from the one in the tutorial
 The wackiest of all, the PD control DERIVATIVE_GAIN works very differently for my robot - 
 the number needs not only be small (the number was 3 in the tutorial), 
 but decimally small (needs to be 0.1 for mine), for the robot to not oscillate like possessed. 
-I have attached a video too. This is very strange.
+I have attached a video of this weird behavior in my folder for Milestone 2. This is very strange.
 
 Otherwise the task went on rather well.
