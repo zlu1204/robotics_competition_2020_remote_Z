@@ -1,0 +1,7 @@
+May 2, 2020 Saturday
+
+Completed milestone 1:
+
+Installed ZumoShield library and implemented code for motors to move for 2-3 meters.
+Found out that my right motor seems to move faster than the left at speed 200, 
+so I reduced right speed to 190, upon which the leftward deviation of the path decreased significantly.
