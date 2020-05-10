@@ -1,0 +1,19 @@
+May 2, 2020 Saturday
+
+Completed milestone 2:
+
+Followed tutorial to code the motors to move along a black line. Some problems along the way:
+
+1. Because the floor in my house is too dark I cannot implement the maze directly on the floor. 
+For this task I used the white marble table. Seems like I’ll have to find another flat, 
+big surface for the final maze - or change the line color.
+
+2. Lots of the parameters given in the tutorial work really wack on my robot. 
+I had to tweak all the numbers into customized ranges, which was no problem but very confusing as to 
+why the performance of my robot differs so strongly from the one in the tutorial under the same parameters. 
+The wackiest of all, the PD control DERIVATIVE_GAIN works very differently for my robot - 
+the number needs not only be small (the number was 3 in the tutorial), 
+but decimally small (needs to be 0.1 for mine), for the robot to not oscillate like possessed. 
+I have attached a video too. This is very strange.
+
+Otherwise the task went on rather well.
